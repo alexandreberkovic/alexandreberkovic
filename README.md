@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Alex
+Hi, I’m Alex 👋
 
 - 👨‍🎓 Master of Business Analytics @ MIT 23'
      MEng of Design Engineering @ Imperial College London 22'
@@ -11,6 +11,8 @@
 - 🌱 I’m currently learning more about machine learning under an optimization lens
 
 - 📫 How to reach me: https://www.linkedin.com/in/alexandreberkovic/
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandreberkovic)](https://github.com/alexandreberkovic/github-readme-stats)
 
 <!---
 alexandreberkovic/alexandreberkovic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
