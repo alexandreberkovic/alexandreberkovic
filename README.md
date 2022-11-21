@@ -12,7 +12,7 @@ Hi, I’m Alex 👋
 
 - 📫 How to reach me: https://www.linkedin.com/in/alexandreberkovic/
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandreberkovic)](https://github.com/alexandreberkovic/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexandreberkovic)](https://github.com/alexandreberkovic/github-readme-stats) -->
 
 <!---
 alexandreberkovic/alexandreberkovic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
