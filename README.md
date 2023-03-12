@@ -3,7 +3,9 @@ Hi, I’m Alex 👋
 - 👨‍🎓 Master of Business Analytics @ MIT 23'
      MEng of Design Engineering @ Imperial College London 22'
      
-- 💻 Engineer in Residence @ OceanHub Africa - Cape town 21' <br />
+- 💻 Capstone Project @ MIT Sloan x Bear Robotics - Cambridge/SF 23'  <br />
+     Analytics Lab @ MIT Sloan x Schneider Electric - Cambridge 22'  <br />
+     Engineer in Residence @ OceanHub Africa - Cape Town 21' <br />
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Business Intelligence Engineer Intern @ Amazon - London 20'
 
 - 👀 I’m interested in Machine Learning, Optimization and Robotics
