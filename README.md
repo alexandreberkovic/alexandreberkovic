@@ -4,8 +4,8 @@ Hi, I’m Alex 👋
      MEng of Design Engineering @ Imperial College London 22'
      
 - 💻 Capstone Project @ MIT Sloan x Bear Robotics - Cambridge/SF 23'  <br />
-     Analytics Lab @ MIT Sloan x Schneider Electric - Cambridge 22'  <br />
-     Engineer in Residence @ OceanHub Africa - Cape Town 21' <br />
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Analytics Lab @ MIT Sloan x Schneider Electric - Cambridge 22'  <br />
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Engineer in Residence @ OceanHub Africa - Cape Town 21' <br />
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Business Intelligence Engineer Intern @ Amazon - London 20'
 
 - 👀 I’m interested in Machine Learning, Optimization and Robotics
