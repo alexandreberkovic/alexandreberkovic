@@ -10,7 +10,7 @@ Hi, I’m Alex 👋
 
 - 👀 I’m interested in Machine Learning, Optimization and Robotics
 
-- 🌱 I’m currently learning more about machine learning under an optimization lens
+- 🌱 I’m currently learning more about applications of ML in creative domains, healthcare and sustainability
 
 - 📫 How to reach me: https://www.linkedin.com/in/alexandreberkovic/
 
