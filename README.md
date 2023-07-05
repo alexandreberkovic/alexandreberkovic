@@ -1,7 +1,7 @@
 Hi, I’m Alex 👋
 
 - 👨‍🎓 Master of Business Analytics @ MIT 23' <br />
-     &nbsp; MEng of Design Engineering @ Imperial College London 22'
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  MEng of Design Engineering @ Imperial College London 22'
      
 - 💻 Capstone Project @ MIT Sloan x Bear Robotics - Cambridge/SF 23'  <br />
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Analytics Lab @ MIT Sloan x Schneider Electric - Cambridge 22'  <br />
