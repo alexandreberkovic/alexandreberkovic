@@ -8,7 +8,7 @@ Hi, I’m Alex 👋
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Engineer in Residence @ OceanHub Africa - Cape Town 21' <br />
      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Business Intelligence Engineer Intern @ Amazon - London 20'
 
-- 👀 I’m interested in Machine Learning, Optimization and Robotics
+- 👀 I’m interested in Machine Learning, Optimization and Generative AI
 
 - 🌱 I’m currently learning more about applications of ML in creative domains, healthcare and sustainability
 
