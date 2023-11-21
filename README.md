@@ -10,7 +10,7 @@ Hi, I’m Alex 👋
 
 - 👀 I’m interested in Machine Learning, Optimization and Generative AI
 
-- 🌱 I’m currently learning more about applications of ML in creative domains, healthcare and sustainability
+- 🌱 I’m currently learning more about applications of ML in creative domains
 
 - 📫 How to reach me: https://www.linkedin.com/in/alexandreberkovic/
 
